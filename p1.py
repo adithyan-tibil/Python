@@ -17,7 +17,7 @@ elif d<e:
 else:
     print(e)
 
-print("updated")
+print("updated done")
 
 # a=int(input('enter the number'))
 # b=int(input('enter the number'))
