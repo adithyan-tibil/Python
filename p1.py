@@ -18,12 +18,12 @@ else:
     print(e)
 
 
-# a=int(input('enter the number'))
-# b=int(input('enter the number'))
-# c=int(input('enter the number'))
-# d=int(input('enter the number'))
-# e=int(input('enter the number'))
-# a=[a,b,c,d,e]
-# a.sort()
-# print(min(a))
-# print(a[data2.csv])
+a=int(input('enter the number'))
+b=int(input('enter the number'))
+c=int(input('enter the number'))
+d=int(input('enter the number'))
+e=int(input('enter the number'))
+a=[a,b,c,d,e]
+a.sort()
+print(min(a))
+print(a[data2.csv])
