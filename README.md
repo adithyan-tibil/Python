@@ -1,2 +1,2 @@
 # Python 
-# This created for intial commit
+This was created for intial commit
